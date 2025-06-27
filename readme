@@ -1,0 +1,17 @@
+# Fake News Detection
+
+Classifies news articles as fake or real using text classification.
+
+## Steps
+- Load dataset
+- Preprocess text
+- Vectorize with TF-IDF
+- Train Naive Bayes model
+- Evaluate accuracy
+
+## Tools
+- Python
+- Scikit-learn
+- Pandas
+
+
